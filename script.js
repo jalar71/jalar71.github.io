@@ -18,7 +18,7 @@ function generateEmojis(type) {
     const rows = 10;
     const cols = 12;
 
-    const size = 60; // spacing between emojis (tweak this)
+    const size = 80; // spacing between emojis (tweak this)
     let index = 0;
 
     for (let row = 0; row < rows; row++) {
