@@ -16,6 +16,8 @@ timezone: America/New_York
 
 title: Russell Jalal # the main title
 
+avatar: /assets/img/profile-jekyll.jpg
+
 tagline: Welcome to my journey # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
