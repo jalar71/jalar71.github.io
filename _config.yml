@@ -16,7 +16,6 @@ timezone: America/New_York
 
 title: Russell Jalal # the main title
 
-avatar: /assets/img/profile-jekyll.jpg
 
 tagline: Welcome to my journey # it will display as the subtitle
 
@@ -41,7 +40,7 @@ social:
 #  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
- #   - https://twitter.com/username # change to your Twitter homepage
+    #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/jalar71 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -101,7 +100,7 @@ pageviews:
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/profile-jekyll.JPG
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
