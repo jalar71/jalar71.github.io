@@ -1,6 +1,6 @@
 ---
 title: Linux Fundamentals
-date: 2026-06-17 16:22:00 -0400
+date: 2026-01-25 16:22:00 -0400
 categories: [Linux]
 tags: [linux, fundamentals]     # TAG names should always be lowercase
 ---
@@ -8,6 +8,7 @@ tags: [linux, fundamentals]     # TAG names should always be lowercase
 ---
 The name "Linux" is actually an umbrella for multiple operating systems that are based on UNIX(another operatin system). Thanks to Linux being open-source, variants of Linux come in all shapes and sizes customized for the purpose of the system is being used for. \
 Linux Commands 
+---
 | Commands | Description|
 |:---|:---|
 |`echo`| Output any text that we provide|
@@ -20,6 +21,7 @@ Linux Commands
 |`wc`| Word count |
 |`grep`| Search in the file for a word or text|
 |`su`| Switch User Example: `su user2`|
+
 ### Let's Take a look at how `find` could be used
 If we know the filename, we can simply use 
 ```bash
@@ -37,6 +39,7 @@ find -name *.txt
 |`&&`|Allows you to combine multiple commands together in one line of your terminal|
 |`>`| Takes the output from a command (such as using `cat` to output file) and direct it elsewhers.|
 |`>>`| Appends the output rather than replacing |
+
 # File Creation Commands
 |Command|Purpose|
 |---|---|
@@ -47,6 +50,7 @@ find -name *.txt
 |`rm`| Remove the file|
 |`file`| Determine what kind of file it is|
 |`ls -lh`|Listing permissions of files|
+
 ## Common Directories 
 |Directory|Purpose|
 |---|---|
