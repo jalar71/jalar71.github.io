@@ -37,3 +37,8 @@ A set of metrics designed to provide a common language for describing security i
 Provides a uniform identifier for publicly known cybersecurity vulnerabilities and software flaws
 3. [CWE](https://cwe.mitre.org/) <br>
 It is a community-developed standard dictionary and classification system for software and hardware security weaknesses and flaws.
+
+---
+## Cool Websites 🌐
+1. [OSINT TOOLS](https://osint-directory-portal.vercel.app/) <br>
+A very cool website with amazing UI and OSINT tools across many domains!
