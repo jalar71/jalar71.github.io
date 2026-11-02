@@ -28,3 +28,12 @@ Learn Cyber Security
 Learn Python
 3. [PasteBin](https://pastebin.com/) <br>
 An online content-hosting service where users can store and share plain text, source code snippets, or error logs via a unique web link.
+
+---
+## Frameworks
+1. [VERIS](https://verisframework.org/) <br>
+A set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. Developed by Verizon
+2. [CVE](https://www.cve.org/) <br>
+Provides a uniform identifier for publicly known cybersecurity vulnerabilities and software flaws
+3. [CWE](https://cwe.mitre.org/) <br>
+It is a community-developed standard dictionary and classification system for software and hardware security weaknesses and flaws.
