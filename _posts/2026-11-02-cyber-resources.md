@@ -5,13 +5,14 @@ categories: [Resources, Cyber Security]
 tags: [cyber security, resources, python, virus analysis]     # TAG names should always be lowercase
 ---
 ## Cyber Security News 🗞️
-1. [DarkReading](https://www.darkreading.com/)
-2. [BleepingComputer](https://www.bleepingcomputer.com/)
+
+1. [DarkReading](https://www.darkreading.com/) <br>
+2. [BleepingComputer](https://www.bleepingcomputer.com/) <br>
+
 ---
 ## Virus Analysis and SandBox 👾
 
 1. [VirusTotal](https://www.virustotal.com/) <br>
-
 A service for analyzing suspicious files, URLs,
 domains, and IP addresses using multiple security
 vendors and threat intelligence sources.
