@@ -42,3 +42,8 @@ It is a community-developed standard dictionary and classification system for so
 ## Cool Websites 🌐
 1. [OSINT TOOLS](https://osint-directory-portal.vercel.app/) <br>
 A very cool website with amazing UI and OSINT tools across many domains!
+
+---
+## Deobfuscation Tools 🛠️
+1. [Symbexcel](https://github.com/ucsb-seclab/symbexcel) <br>
+An open-source cybersecurity tool that uses symbolic execution to automatically de-obfuscate and analyze malicious Excel 4.0 (XL4) macros.
