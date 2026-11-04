@@ -4,10 +4,11 @@ date: 2026-11-02 15:30:00 -0400
 categories: [Resources, Cyber Security]
 tags: [cyber security, resources, python, virus analysis]     # TAG names should always be lowercase
 ---
-## Cyber Security News 🗞️
+## Cyber Security News/Resources 🗞️
 
 1. [DarkReading](https://www.darkreading.com/) <br>
 2. [BleepingComputer](https://www.bleepingcomputer.com/) <br>
+3. [SANS White Papers](https://www.sans.org/white-papers) <br>
 
 ---
 ## Virus Analysis and SandBox 👾
