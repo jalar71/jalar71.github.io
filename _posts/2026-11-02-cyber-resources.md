@@ -40,6 +40,8 @@ Provides a uniform identifier for publicly known cybersecurity vulnerabilities a
 It is a community-developed standard dictionary and classification system for software and hardware security weaknesses and flaws.
 4. [ATT&CK MITRE](https://attack.mitre.org/) <br>
 A detailed map of how attacks are carried out and their stages.
+5. [D3FEND MITRE](https://d3fend.mitre.org/) <br>
+A knowledge graph of cyber defense and countermeasures. 
 
 ---
 ## Cool Websites 🌐
