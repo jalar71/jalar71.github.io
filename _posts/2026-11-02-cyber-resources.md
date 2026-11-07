@@ -41,7 +41,11 @@ It is a community-developed standard dictionary and classification system for so
 4. [ATT&CK MITRE](https://attack.mitre.org/) <br>
 A detailed map of how attacks are carried out and their stages.
 5. [D3FEND MITRE](https://d3fend.mitre.org/) <br>
-A knowledge graph of cyber defense and countermeasures. 
+A knowledge graph of cyber defense and countermeasures.
+6. [DISARM](https://www.debunk.org/disarm-framework). <br>
+Developed by the DISARM Foundation, inspired by the MITRE ATT&CK framework which is used in cybersecurity. An open-source tool designed to help organizations identify, analyze, and counteract disinformation.
+7. [ENISA](https://www.enisa.europa.eu/about-enisa/who-we-are) <br>
+ENISA is the European Union Agency for Cybersecurity, the official EU agency dedicated to achieving a high common level of cybersecurity across European Member States and institutions.
 
 ---
 ## Cool Websites 🌐
@@ -49,6 +53,10 @@ A knowledge graph of cyber defense and countermeasures.
 A very cool website with amazing UI and OSINT tools across many domains!
 
 ---
+## Cyber Red Team Tools 🔺
+1. [Invoke-Obfuscation v1.8](https://github.com/danielbohannon/Invoke-obfuscation) <br>
+Invoke-Obfuscation is an open-source PowerShell obfuscation framework created by Daniel Bohannon. It is a cybersecurity tool used to transform PowerShell scripts into heavily obfuscated versions that are much harder for humans, antivirus software, and security monitoring tools to understand.
+
 ## Deobfuscation Tools 🛠️
 1. [Symbexcel](https://github.com/ucsb-seclab/symbexcel) <br>
 An open-source cybersecurity tool that uses symbolic execution to automatically de-obfuscate and analyze malicious Excel 4.0 (XL4) macros.
