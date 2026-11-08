@@ -1,0 +1,28 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+:root:not([data-mode]),
+:root[data-mode='light'],
+:root[data-mode='dark'] {
+  --sidebar-bg: #006db0;
+  --sidebar-border-color: rgba(255, 255, 255, 0.2);
+  --sidebar-muted-color: rgba(255, 255, 255, 0.75);
+  --sidebar-active-color: #fff;
+  --sidebar-hover-bg: rgba(255, 255, 255, 0.15);
+  --sidebar-btn-bg: rgba(255, 255, 255, 0.15);
+  --sidebar-btn-border-color: rgba(255, 255, 255, 0.3);
+  --nav-cursor-color: #fff;
+}
