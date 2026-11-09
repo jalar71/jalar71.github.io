@@ -3,6 +3,8 @@ title: My Current Learning
 date: 2026-11-09 16:35:00 -0400
 categories: [Currently Learning]
 tags: [cyber security, current learning]     # TAG names should always be lowercase
+pin: true
+mermaid: true
 ---
 
 ## My Current Learning
