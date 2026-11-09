@@ -17,6 +17,7 @@ graph TD
 Russell's_Current_Learning --> Mermaid
 Russell's_Current_Learning --> Markdown
 Russell's_Current_Learning --> Emotet_Malware
+Russell's_Current_Learning --> Python
 ```
 
 
