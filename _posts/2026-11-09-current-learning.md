@@ -5,8 +5,11 @@ categories: [Currently Learning]
 tags: [cyber security, current learning]     # TAG names should always be lowercase
 ---
 
-### My Current Learning
+## My Current Learning
 I am currently learning how to maintain my github.io website and format blogs with markdown. Thank you to the creators of this awesome jekyll theme.
+
+## My First Mermaid Diagram
+
 ```mermaid
 graph TD
 Russell's_Current_Learning --> Mermaid
