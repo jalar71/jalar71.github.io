@@ -9,6 +9,7 @@ tags: [cyber security, resources, python, virus analysis]     # TAG names should
 1. [DarkReading](https://www.darkreading.com/) <br>
 2. [BleepingComputer](https://www.bleepingcomputer.com/) <br>
 3. [SANS White Papers](https://www.sans.org/white-papers) <br>
+4. [proofpoint](https://www.proofpoint.com/us/resources?group=threat_research) <br>
 
 ---
 ## Virus Analysis and SandBox 👾
