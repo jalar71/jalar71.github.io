@@ -61,3 +61,9 @@ Invoke-Obfuscation is an open-source PowerShell obfuscation framework created by
 ## Deobfuscation Tools 🛠️
 1. [Symbexcel](https://github.com/ucsb-seclab/symbexcel) <br>
 An open-source cybersecurity tool that uses symbolic execution to automatically de-obfuscate and analyze malicious Excel 4.0 (XL4) macros.
+
+## Email Forensics📧
+1. [Google Admin Toolbox – Messageheader](https://toolbox.googleapps.com/apps/messageheader/) <br>
+Visualizes the email's server route and timestamps.
+2. [MXToolbox](https://mxtoolbox.com/SuperTool.aspx) <br>
+Checks email authentication, DNS records, mail servers, and reputation.
