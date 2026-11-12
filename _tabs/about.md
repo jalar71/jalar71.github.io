@@ -2,9 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image: /assets/img/building_drawing_cropped.jpeg
-alt: Buildings Image
-
+image:
+  path: /assets/img/building_drawing_cropped.jpeg
+  alt: Buildings Drawing
 ---
 
 [My Resume](/assets/pdf/Russell Jalal_Resume.pdf)
