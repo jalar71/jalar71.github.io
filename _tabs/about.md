@@ -2,12 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image: /assets/img/building_drawing.jpg
+image: /assets/img/building_drawing_cropped.jpeg
+
 ---
 
 [My Resume](/assets/pdf/Russell Jalal_Resume.pdf)
-
-# About Me
 
 Hello, everyone! My name is Russell Jalal, and I am a Cybersecurity student at the **University at Albany (UAlbany)**.
 
