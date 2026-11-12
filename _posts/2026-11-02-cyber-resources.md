@@ -53,6 +53,8 @@ ENISA is the European Union Agency for Cybersecurity, the official EU agency ded
 ## Cool Websites 🌐
 1. [OSINT TOOLS](https://osint-directory-portal.vercel.app/) <br>
 A very cool website with amazing UI and OSINT tools across many domains!
+2. [Kaggle Dataset📊](https://www.kaggle.com/datasets) <br>
+Free Data sets available for analysis.
 
 ---
 ## Cyber Red Team Tools 🔺
