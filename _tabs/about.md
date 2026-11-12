@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 image: /assets/img/building_drawing_cropped.jpeg
+alt: Buildings Image
 
 ---
 
