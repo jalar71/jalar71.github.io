@@ -9,14 +9,16 @@ order: 4
 <br>
 [My Resume](/assets/pdf/Russell Jalal_Resume.pdf)
 
-Hey everyone! 😊👋
+# About Me
 
-My name is Russell Jalal and I am currently a senior student at University at Albany and my major is Cyber Security. 
+Hello, everyone! My name is Russell Jalal, and I am a Cybersecurity student at the **University at Albany (UAlbany)**.
 
-The idea was inspired by one of my alumni from community college, but it was also influenced by something I noticed while looking at the websites of successful professionals in the IT industry, almost everyone had a place where they documented their work, shared their notes, and showcased their journey. 
+I graduated with Highest Distinction 🏆 from Suffolk County Community College, where I earned my Associate degree in Cybersecurity and Information Assurance. During my time there, I also took on the challenge of obtaining my CompTIA Security+ certification which I earned in October 2024.
 
-I wanted to build something similar for myself! 
+I am currently working towards completing my Bachelor's degree in Cybersecurity at [UAlbany](https://www.albany.edu/cehc), with an expected graduation 🧑‍🎓 date of May 2027.
 
-1. A personal knowledge database for myself.
-2. Anyone can look at my notes and maybe get help for their projects.
-3. These notes are available on the web! and I can easily access them from anywhere. 😎
+Through all my learning I have developed a profound interest in cybersecurity, information technology, networking, and hands-on technical learning and OH MY GOD! This cyber security field is every growing, and there is never a dull moment here! I discovered the Jekyll Chirpy theme and the ability to host a personal website through GitHub.io Pages, and I was fascinated by the opportunity to build something of my own where I can collect all my notes and educational resources and make it my personal knowledge base.
+
+A wanted this website to serve two purposes: a personal portfolio and a continuously growing knowledge base. I use it to document what I learn, organize my technical notes, share projects, and explore different areas of cybersecurity. My goal is to create a resource that reflects my progress as a student and aspiring cybersecurity professional while hopefully helping others along the way.
+
+Thank you for reading all this! 😊
