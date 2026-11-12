@@ -5,6 +5,9 @@ categories: [Currently Learning]
 tags: [cyber security, current learning]     # TAG names should always be lowercase
 pin: true
 mermaid: true
+image:
+  path: /assets/img/building_drawing_cropped.jpeg
+  alt: Buildings Drawing
 ---
 
 ## My Current Learning
