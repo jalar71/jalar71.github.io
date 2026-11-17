@@ -11,11 +11,15 @@ pin: true
 2. [BleepingComputer](https://www.bleepingcomputer.com/) <br>
 3. [SANS White Papers](https://www.sans.org/white-papers) <br>
 4. [proofpoint](https://www.proofpoint.com/us/resources?group=threat_research) <br>
-5. [Polo Club of Data Science](https://poloclub.github.io/#page-top) <br>
+5. [CSO Online](https://www.csoonline.com/) <br>
+A leading digital publication providing news, analysis, and research on enterprise security, risk management, and cybersecurity.
+---
+### Student Websites
+1. [Polo Club of Data Science](https://poloclub.github.io/#page-top) <br>
 The Polo Club of Data Science @ [Georgia Tech](https://www.gatech.edu/) is a research group led by Prof. Polo Chau at the Georgia Institute of Technology.
 
 ---
-## Virus Analysis and SandBox 👾
+## Analysis and SandBox 👾
 
 1. [VirusTotal](https://www.virustotal.com/) <br>
 A service for analyzing suspicious files, URLs,
@@ -23,7 +27,14 @@ domains, and IP addresses using multiple security
 vendors and threat intelligence sources.
 2. [JoeSandBox](https://www.joesandbox.com/#windows) <br>
 Deep-analysis platform used to detect and analyze suspicious files, scripts, and URLs across Windows, macOS, Linux, and Android
-
+3. [Security Headers](https://securityheaders.com/) <br>
+Quickly and easily assess the security of your HTTP response headers.
+4. [haveibeenpwned](https://haveibeenpwned.com/)<br>
+Check to see if your email was a part of a security breach
+5. [Censys.io](https://search.censys.io/)<br>
+A public search engine and cybersecurity platform that continuously scans and indexes internet-connected devices, servers, IP addresses, domains, and digital certificates.
+6. [Shodan.io](https://www.shodan.io/)<br>
+Seach engine for internet connected devices. Such as servers, cameras, printers.
 ---
 ## Learning Resources 📝
 
