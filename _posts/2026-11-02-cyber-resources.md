@@ -4,6 +4,9 @@ date: 2026-11-02 15:30:00 -0400
 categories: [Resources, Cyber Security]
 tags: [cyber security, resources, python, virus analysis]     # TAG names should always be lowercase
 pin: true
+image: 
+  path: /assets/img/cyber-resources.jpeg
+  alt: Cisco Image
 ---
 ## Cyber Security News/Resources 🗞️
 
