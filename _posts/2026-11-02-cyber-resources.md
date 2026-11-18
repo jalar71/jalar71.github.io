@@ -73,7 +73,8 @@ ENISA is the European Union Agency for Cybersecurity, the official EU agency ded
 A very cool website with amazing UI and OSINT tools across many domains!
 2. [Kaggle Dataset📊](https://www.kaggle.com/datasets) <br>
 Free Data sets available for analysis.
-
+3. [Vulnerability Scanners GitHub](https://github.com/haxdoggy/vulnerability-scanners) <br>
+A curated list of vulnerability scanners — both free and commercial — organized by type.
 ---
 ## Cyber Red Team Tools 🔺
 1. [Invoke-Obfuscation v1.8](https://github.com/danielbohannon/Invoke-obfuscation) <br>
