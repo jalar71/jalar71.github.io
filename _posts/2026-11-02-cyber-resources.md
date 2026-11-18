@@ -16,6 +16,8 @@ image:
 4. [proofpoint](https://www.proofpoint.com/us/resources?group=threat_research) <br>
 5. [CSO Online](https://www.csoonline.com/) <br>
 A leading digital publication providing news, analysis, and research on enterprise security, risk management, and cybersecurity.
+6. [Google Mandiant](https://cloud.google.com/blog) <br>
+Provides frontline incident response, threat intelligence, managed defense, and security consulting alongside Google Cloud security tools.
 ---
 ### Student Websites
 1. [Polo Club of Data Science](https://poloclub.github.io/#page-top) <br>
