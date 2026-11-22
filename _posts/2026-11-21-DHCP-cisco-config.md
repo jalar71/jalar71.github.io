@@ -5,7 +5,7 @@ categories: [Networking, Notes]
 tags: [notes, dhcp, networking]  # TAG names should always be lowercase  
 mermaid: true  
 image: 
-  path: /assets/img/networking/DHCP.png
+  path: /assets/img/networking/cisco_dhcp_relay_thumbnail.png
 ---
 # Cisco DHCP Configuration
 Step 1. List down the addresses you don't want to be in the pool.
@@ -101,7 +101,8 @@ R1(dhcp-config)# end
 # Cisco DHCP Relay
 Since clients are located on a different subnet from servers, often they are not directly connected. 
 
-[Picture] <br>
+![Cisco_Diagram](/assets/img/networking/cisco_dhcp_relay.png)
+<br>
 In the picture above you can see the client is not connected directly to the DHCP server. The solution to this problem is **DHCP Relay**. We configure the router as the relay. As we configure R1 with the `ip helper-address` address interface configuration command. This will cause R1 to relay DHCPv4 broadcasts to the DHCPv4 server. 
 
 ```
