@@ -1,5 +1,5 @@
 ---
-title: Title
+title: DHCP | Cisco
 date: 2026-11-21 11:49:00 -0400
 categories: [Networking, Notes]
 tags: [notes, dhcp, networking]  # TAG names should always be lowercase  
