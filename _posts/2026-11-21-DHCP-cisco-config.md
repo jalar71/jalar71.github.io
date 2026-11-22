@@ -7,7 +7,7 @@ mermaid: true
 image: 
   path: /assets/img/networking/cisco_dhcp_relay_thumbnail.png
 ---
-# Cisco DHCP Configuration
+## Cisco DHCP Configuration
 Step 1. List down the addresses you don't want to be in the pool.
 ```
 R1(config)# ip dhcp excluded-address 192.168.10.1 192.168.10.9
@@ -98,7 +98,7 @@ R1(dhcp-config)# dns-server 192.168.11.5
 R1(dhcp-config)# domain-name example.com
 R1(dhcp-config)# end
 ```
-# Cisco DHCP Relay
+## Cisco DHCP Relay
 Since clients are located on a different subnet from servers, often they are not directly connected. 
 
 ![Cisco_Diagram](/assets/img/networking/cisco_dhcp_relay.png)
@@ -112,7 +112,7 @@ R1(config-if)# end
 R1#
 ```
 
-# Cisco Router as a DHCP Client
+## Cisco Router as a DHCP Client
 Sometimes your ISP is your main DHCP provider and in that case your router must become a DHCP client. 
 
 <u>Configuration example:</u>
