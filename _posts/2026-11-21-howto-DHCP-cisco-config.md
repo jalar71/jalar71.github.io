@@ -1,5 +1,5 @@
 ---
-title: HOWTO | Config Cisco Router with DHCP
+title: How-To | Configure a Cisco Router with DHCP
 date: 2026-11-21 11:49:00 -0400
 categories: [Networking, Notes]
 tags: [notes, dhcp, networking, howto]  # TAG names should always be lowercase  
