@@ -1,8 +1,8 @@
 ---
-title: DHCP | Cisco
+title: HOWTO | Config Cisco Router with DHCP
 date: 2026-11-21 11:49:00 -0400
 categories: [Networking, Notes]
-tags: [notes, dhcp, networking]  # TAG names should always be lowercase  
+tags: [notes, dhcp, networking, howto]  # TAG names should always be lowercase  
 mermaid: true  
 image: 
   path: /assets/img/networking/cisco_dhcp_relay_thumbnail.png
