@@ -2,7 +2,9 @@
 title: Cyber Terms/Glossary
 date: 2026-11-08 17:10:00 -0400
 categories: [Cyber Security Terms, Glossary]
-tags: [cyber security, glossary, dictionary]     # TAG names should always be lowercase
+tags: [cyber security, glossary, dictionary]   
+image: 
+  path: /assets/img/cyber_glossary.png
 ---
 
 ## Cyber Terms/Glossary
